@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-php PHP_EOL;
+echo PHP_EOL;
 ?>
